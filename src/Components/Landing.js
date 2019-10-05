@@ -38,7 +38,7 @@ class Land extends React.Component{
                                                         
                                                             <Form.Group controlId="formBasicEmail">
                                                                 {/* <Form.Label><h5>It's quick and easy.</h5></Form.Label> */}
-                                                                <Form.Control style={{marginLeft:'-15px',width:'200px'}} /*size="lg"*/ type="text" name="name" placeholder="First name" />
+                                                                <Form.Control style={{marginLeft:'-15px',width:'200px'}} size="lg" type="text" name="name" placeholder="First name" />
                                                             </Form.Group>
                                                         </Col>
 
